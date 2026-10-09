@@ -1,0 +1,6 @@
+{
+  "name": "StreamX",
+  "description": "Native Android OTT streaming app with sticky half video player, gesture seeking, Room watch history auto-resume, and native Picture-in-Picture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
